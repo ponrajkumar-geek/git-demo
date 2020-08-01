@@ -1,2 +1,1 @@
-# git-demo
-git demo for learning
+new entry
